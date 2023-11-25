@@ -1,0 +1,43 @@
+{
+	"connection_key": "request",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+	"api_status_code": 200,
+	"runtime_session_id": "boi9ar543dg91ipdnspi099u231280ab0v8af0ew",
+	"business_partner": null,
+	"service_label": "STORAGE_BIN",
+	"api_type": "creates",
+	"Plant": {
+		"BusinessPartner": null,
+		"Plant": "",
+		"PlantName": "",
+		"PlantFullName": "",
+		"Language": "",
+		"PlantFoundationDate": "",
+		"PlantLiquidationDate": "",
+		"PlantDeathDate": "",
+		"AddressID": null,
+		"Country": "",
+		"TimeZone": "",
+		"PlantIDByExtSystem": "",
+		"CreationDate": "",
+		"LastChangeDate": "",
+		"IsMarkedForDeletion": null,
+		"StorageLocation": [
+			{
+				"StorageLocation": "",
+				"StorageLocationName": "",
+				"StorageLocationFullName": "",
+				"StorageLocationIDByExtSystem": "",
+				"CreationDate": "",
+				"LastChangeDate": "",
+				"IsMarkedForDeletion": null
+			}
+		]
+	},
+	"api_schema": "DPFMPlantCreates",
+	"accepter": [
+		"General"
+	]
+}
